@@ -29,7 +29,7 @@ Una vez que haya dockerizado todos los componentes de la API *(aplicación de No
 2. Asegurar el endpoint /private con auth_basic
 3. Habilitar https y redireccionar todo el trafico 80 --> 443
 
-
+https://github.com/doxk/CLM_RETO.git
 
 ### Reto 3. Probar la aplicación en cualquier sistema CI/CD [NO REALIZADO]
 
